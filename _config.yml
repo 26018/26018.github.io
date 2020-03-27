@@ -731,8 +731,8 @@ vendors:
 
 # Assets
 css: assets/css
-js: assets/js
-images: assets/images
+js: https://cdn.jsdelivr.net/gh/26018/26018.github.io@5.1.3/assets/js
+images: https://cdn.jsdelivr.net/gh/26018/26018.github.io@5.1.3/assets/images
 
 # Theme version
 version: 5.1.1
