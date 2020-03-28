@@ -19,7 +19,7 @@ excerpt_separator: <!--more-->
 	其中: int --> Integer，char->Character较为特殊      
 	
 
-**注意事项：**
+**注意事项：**     
 	对于ArrayList集合来说，直接打印集合得到的不是地址值，而是集合中的元素     
 	如果集合为空，则显示空的括号：[ ]
 ```java
