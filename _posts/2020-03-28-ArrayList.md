@@ -9,7 +9,6 @@ excerpt_separator: <!--more-->
 ---
 <p align="center"></p>
 <!--more-->
-=[enter description here](https://github.com/26018/26018.github.io/tree/master/_posts/attachments/Sqlist.cpp)
 
 # ArrayList集合与数组的区别
 1.  数组的长度不可以发生改变，但ArrayList集合的长度是可以随意变化的    
